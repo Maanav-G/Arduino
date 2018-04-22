@@ -1,10 +1,3 @@
-
-/*
-The Curie IMU library enables an Arduino or Genuino 101 to read the output of the on-board 
-IMU (Inertial Measurement Unit) containing an accelerometer and a gyroscope and elaborate 
-the raw data coming from it. - only compatible with Arduino or Genuino 101
- */
-
 #include "CurieIMU.h"
 
 void setup() {
